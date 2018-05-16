@@ -33,91 +33,91 @@ module PUBG
       @args
     end
 
-    def playerLogin
+    def player_login
       @args.select { |data| data.type == "LogPlayerLogin" }
     end
 
-    def playerCreate
+    def player_create
       @args.select { |data| data.type == "LogPlayerCreate" }
     end
 
-    def playerPosition
+    def player_position
       @args.select { |data| data.type == "LogPlayerPosition" }
     end
 
-    def playerAttack
+    def player_attack
       @args.select { |data| data.type == "LogPlayerAttack" }
     end
 
-    def itemPickup
+    def item_pickup
       @args.select { |data| data.type == "LogItemPickup" }
     end
 
-    def itemEquip
+    def item_equip
       @args.select { |data| data.type == "LogItemEquip" }
     end
 
-    def itemUnequip
+    def item_unequip
       @args.select { |data| data.type == "LogItemUnequip" }
     end
 
-    def vehicleRide
+    def vehicle_ride
       @args.select { |data| data.type == "LogVehicleRide" }
     end
 
-    def playerKill
+    def player_kill
       @args.select { |data| data.type == "LogPlayerKill" }
     end
 
-    def playerTakeDamage
+    def player_take_damage
       @args.select { |data| data.type == "LogPlayerTakeDamage" }
     end
 
-    def matchDefinition
+    def match_definition
       @args.select { |data| data.type == "LogMatchDefinition" }
     end
 
-    def matchStart
+    def match_start
       @args.select { |data| data.type == "LogMatchStart" }
     end
 
-    def gamestatePeriodic
-      @args.select { |data| data.type == "LogGamestatePeriodic" }
+    def game_state_periodic
+      @args.select { |data| data.type == "LogGameStatePeriodic" }
     end
 
-    def vehicleLeave
+    def vehicle_leave
       @args.select { |data| data.type == "LogVehicleLeave" }
     end
 
-    def playerLogout
+    def player_logout
       @args.select { |data| data.type == "LogPlayerLogout" }
     end
 
-    def itemAttach
+    def item_attach
       @args.select { |data| data.type == "LogItemAttach" }
     end
 
-    def itemDrop
+    def item_drop
       @args.select { |data| data.type == "LogItemDrop" }
     end
 
-    def itemUse
+    def item_use
       @args.select { |data| data.type == "LogItemUse" }
     end
 
-    def carePackageSpawn
+    def care_package_spawn
       @args.select { |data| data.type == "LogCarePackageSpawn" }
     end
 
-    def vehicleDestroy
+    def vehicle_destroy
       @args.select { |data| data.type == "LogVehicleDestroy" }
     end
 
-    def carePackageLand
+    def care_package_land
       @args.select { |data| data.type == "LogCarePackageLand" }
     end
 
-    def matchEnd
+    def match_end
       @args.select { |data| data.type == "LogMatchEnd" }
     end
 
