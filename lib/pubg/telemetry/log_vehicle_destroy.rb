@@ -10,8 +10,8 @@ module PUBG
         @attack_id = args["AttackId"]
         @attacker = Character.new(args["Attacker"])
         @vehicle = Vehicle.new(args["Vehicle"])
-        @damage_type_category = args["DamageTypeCategory"]
-        @damage_causer_name = args["DamageCauserName"]
+        @damage_type_category = PUBG::Telemetry::DamageTypeLookup.find(args["DamageTypeCategory"])
+        @damage_causer_name = PUBG::Telemetry::DamageCauserLookup.find(args["DamageCauserName"])
         @distance = args["Distance"]
         super(args)
       end
