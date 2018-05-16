@@ -164,14 +164,14 @@ Telemetry provides further insight into a match.
 telemetry = @pubg.telemetry("https://telemetry-cdn...c30c-telemetry.json")
 
 telemetry.original
-telemetry.playerLogin
-telemetry.playerCreate
-telemetry.playerPosition
-telemetry.playerAttack
-telemetry.itemPickup
-telemetry.itemEquip
-telemetry.itemUnequip
-telemetry.vehicleRide
+telemetry.player_login
+telemetry.player_create
+telemetry.player_position
+telemetry.player_attack
+telemetry.item_pickup
+telemetry.item_equip
+telemetry.item_unequip
+telemetry.vehicle_Ride
 ```
 
 ## Development
