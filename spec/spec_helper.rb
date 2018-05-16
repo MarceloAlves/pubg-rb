@@ -18,7 +18,9 @@ RSpec.configure do |config|
   end
 
   config.before(:each) do
+    telemetry_file = File.open(File.dirname(__FILE__) + "/support/fixtures/telemetry.json", "rb").read
     stub_request(:any, /api.playbattlegrounds.com/).to_rack(FakePubg)
+    stub_request(:any, /telemetry-cdn.playbattlegrounds.com/).to_return(body: telemetry_file)
 
     @pubg = PUBG::Client.new("ultra_key", "xbox-na")
   end

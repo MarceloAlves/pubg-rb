@@ -1,0 +1,2908 @@
+[{
+    "ItemPackage": {
+      "ItemPackageId": "Carapackage_RedBox_C",
+      "Location": {
+        "X": 453265.7,
+        "Y": 515455.031,
+        "Z": -238.203018
+      },
+      "Items": [{
+          "ItemId": "Item_Weapon_Groza_C",
+          "StackCount": 1,
+          "Category": "Weapon",
+          "SubCategory": "Main",
+          "AttachedItems": []
+        },
+        {
+          "ItemId": "Item_Ammo_762mm_C",
+          "StackCount": 30,
+          "Category": "Ammunition",
+          "SubCategory": "None",
+          "AttachedItems": []
+        },
+        {
+          "ItemId": "Item_Ammo_762mm_C",
+          "StackCount": 30,
+          "Category": "Ammunition",
+          "SubCategory": "None",
+          "AttachedItems": []
+        },
+        {
+          "ItemId": "Item_Ammo_762mm_C",
+          "StackCount": 30,
+          "Category": "Ammunition",
+          "SubCategory": "None",
+          "AttachedItems": []
+        },
+        {
+          "ItemId": "Item_Back_C_01_Lv3_C",
+          "StackCount": 1,
+          "Category": "Equipment",
+          "SubCategory": "Backpack",
+          "AttachedItems": []
+        }
+      ]
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:46:27.868Z",
+    "_T": "LogCarePackageLand"
+  },
+  {
+    "ItemPackage": {
+      "ItemPackageId": "Carapackage_RedBox_C",
+      "Location": {
+        "X": 375953.9,
+        "Y": 713290.438,
+        "Z": 30000.0
+      },
+      "Items": [{
+          "ItemId": "Item_Weapon_M24_C",
+          "StackCount": 1,
+          "Category": "Weapon",
+          "SubCategory": "Main",
+          "AttachedItems": []
+        },
+        {
+          "ItemId": "Item_Ammo_762mm_C",
+          "StackCount": 15,
+          "Category": "Ammunition",
+          "SubCategory": "None",
+          "AttachedItems": []
+        },
+        {
+          "ItemId": "Item_Ammo_762mm_C",
+          "StackCount": 15,
+          "Category": "Ammunition",
+          "SubCategory": "None",
+          "AttachedItems": []
+        },
+        {
+          "ItemId": "Item_Attach_Weapon_Muzzle_Compensator_SniperRifle_C",
+          "StackCount": 1,
+          "Category": "Attachment",
+          "SubCategory": "None",
+          "AttachedItems": []
+        },
+        {
+          "ItemId": "Item_Head_G_01_Lv3_C",
+          "StackCount": 1,
+          "Category": "Equipment",
+          "SubCategory": "Headgear",
+          "AttachedItems": []
+        }
+      ]
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:53:40.774Z",
+    "_T": "LogCarePackageSpawn"
+  },
+  {
+    "GameState": {
+      "ElapsedTime": 797,
+      "NumAliveTeams": 19,
+      "NumJoinPlayers": 95,
+      "NumStartPlayers": 98,
+      "NumAlivePlayers": 34,
+      "SafetyZonePosition": {
+        "X": 384863.781,
+        "Y": 621427.3,
+        "Z": 0.0
+      },
+      "SafetyZoneRadius": 231887.484,
+      "PoisonGasWarningPosition": {
+        "X": 343406.938,
+        "Y": 674879.2,
+        "Z": 0.0
+      },
+      "PoisonGasWarningRadius": 150726.859,
+      "RedZonePosition": {
+        "X": 354576.5,
+        "Y": 552042.6,
+        "Z": 0.0
+      },
+      "RedZoneRadius": 0.0
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:53:46.415Z",
+    "_T": "LogGameStatePeriodic"
+  },
+  {
+    "Character": {
+      "Name": "SolitaryMan070",
+      "TeamId": 31,
+      "Health": 100.0,
+      "Location": {
+        "X": 549338.8,
+        "Y": 595469.75,
+        "Z": 2333.34985
+      },
+      "Ranking": 0,
+      "AccountId": "account.5a1b0c2ecd6341a4a39990693b4d3b30"
+    },
+    "ParentItem": {
+      "ItemId": "Item_Weapon_SKS_C",
+      "StackCount": 1,
+      "Category": "Weapon",
+      "SubCategory": "Main",
+      "AttachedItems": []
+    },
+    "ChildItem": {
+      "ItemId": "Item_Attach_Weapon_Magazine_ExtendedQuickDraw_SniperRifle_C",
+      "StackCount": 1,
+      "Category": "Attachment",
+      "SubCategory": "None",
+      "AttachedItems": []
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:53:48.337Z",
+    "_T": "LogItemAttach"
+  },
+  {
+    "Character": {
+      "Name": "SolitaryMan070",
+      "TeamId": 31,
+      "Health": 100.0,
+      "Location": {
+        "X": 549338.8,
+        "Y": 595469.75,
+        "Z": 2333.34985
+      },
+      "Ranking": 0,
+      "AccountId": "account.5a1b0c2ecd6341a4a39990693b4d3b30"
+    },
+    "ParentItem": {
+      "ItemId": "Item_Weapon_SCAR-L_C",
+      "StackCount": 1,
+      "Category": "Weapon",
+      "SubCategory": "Main",
+      "AttachedItems": [
+        "Item_Attach_Weapon_Upper_CQBSS_C",
+        "Item_Attach_Weapon_Lower_AngledForeGrip_C",
+        "Item_Attach_Weapon_Magazine_Extended_Large_C",
+        "Item_Attach_Weapon_Muzzle_Compensator_Large_C"
+      ]
+    },
+    "ChildItem": {
+      "ItemId": "Item_Attach_Weapon_Upper_CQBSS_C",
+      "StackCount": 1,
+      "Category": "Attachment",
+      "SubCategory": "None",
+      "AttachedItems": []
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:53:52.666Z",
+    "_T": "LogItemDetach"
+  },
+  {
+    "Character": {
+      "Name": "ramzi 24",
+      "TeamId": 36,
+      "Health": 62.6000366,
+      "Location": {
+        "X": 436461.063,
+        "Y": 325246.875,
+        "Z": 215.08
+      },
+      "Ranking": 0,
+      "AccountId": "account.2622020c25b2434a85f556a231ae8215"
+    },
+    "Item": {
+      "ItemId": "Item_Heal_Bandage_C",
+      "StackCount": 10,
+      "Category": "Use",
+      "SubCategory": "Heal",
+      "AttachedItems": []
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:54:01.747Z",
+    "_T": "LogItemDrop"
+  },
+  {
+    "Character": {
+      "Name": "ItsCiod00d",
+      "TeamId": 16,
+      "Health": 85.51618,
+      "Location": {
+        "X": 586046.063,
+        "Y": 601185.5,
+        "Z": 1253.48
+      },
+      "Ranking": 0,
+      "AccountId": "account.e6fb66e048844e5f875d4df48ee4fc1b"
+    },
+    "Item": {
+      "ItemId": "Item_Head_G_01_Lv3_C",
+      "StackCount": 1,
+      "Category": "Equipment",
+      "SubCategory": "Headgear",
+      "AttachedItems": []
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:54:08.285Z",
+    "_T": "LogItemPickup"
+  },
+  {
+    "Character": {
+      "Name": "YungTenner",
+      "TeamId": 31,
+      "Health": 100.0,
+      "Location": {
+        "X": 549670.2,
+        "Y": 595184.938,
+        "Z": 2305.58984
+      },
+      "Ranking": 0,
+      "AccountId": "account.28d0c416ea6c40c6a6e55e885ffd48fb"
+    },
+    "Item": {
+      "ItemId": "Item_Weapon_Thompson_C",
+      "StackCount": 1,
+      "Category": "Weapon",
+      "SubCategory": "Main",
+      "AttachedItems": []
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:54:13.092Z",
+    "_T": "LogItemUnequip"
+  },
+  {
+    "Character": {
+      "Name": "Jef 25 BR",
+      "TeamId": 30,
+      "Health": 75.0,
+      "Location": {
+        "X": 498274.1,
+        "Y": 254238.078,
+        "Z": 453.509979
+      },
+      "Ranking": 0,
+      "AccountId": "account.25bbad400d72406d9464f0c37615498d"
+    },
+    "Item": {
+      "ItemId": "Item_Heal_FirstAid_C",
+      "StackCount": 1,
+      "Category": "Use",
+      "SubCategory": "Heal",
+      "AttachedItems": []
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:54:15.841Z",
+    "_T": "LogItemUse"
+  },
+  {
+    "MatchId": "match.bro.official.xb-pre1.na.duo.2018.05.11.8f75dd2c-86c4-44f6-b530-b5e8c4c2b23d",
+    "_V": 2,
+    "_D": "2018-05-11T05:40:15.8924971+00:00",
+    "_T": "LogMatchDefinition"
+  },
+  {
+    "Characters": [{
+        "Name": "blubber10",
+        "TeamId": 7,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.0ef337a7a43b4ee4b99a729539431008"
+      },
+      {
+        "Name": "IrateIvan13",
+        "TeamId": 7,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.46e0213078b648b293010b20dbe796da"
+      },
+      {
+        "Name": "tangoMASTER89",
+        "TeamId": 1,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.00c5f5da905944a5a5fd2c9defddac3b"
+      },
+      {
+        "Name": "I Deer Park I",
+        "TeamId": 6,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.46809da3fb0b4892ab8ea3cea736080c"
+      },
+      {
+        "Name": "PattyCakeJake",
+        "TeamId": 12,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.7129a226f2e447c7a7290bcff6443980"
+      },
+      {
+        "Name": "MaRsHiN",
+        "TeamId": 16,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.a4d425b1059c4611a3dcfb5f72f53f5c"
+      },
+      {
+        "Name": "LongForrest D",
+        "TeamId": 12,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.8af7893fccc245ad97d66be795939b9e"
+      },
+      {
+        "Name": "Abandonn",
+        "TeamId": 4,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.e99d4e5a174e4b5e8eeb3cad27a0acc0"
+      },
+      {
+        "Name": "YOUNGGSAVAGEE16",
+        "TeamId": 10,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.99ebd0ebf6d04c9782465a4225a8a789"
+      },
+      {
+        "Name": "MAGICIANS BLACK",
+        "TeamId": 19,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.909f391976404a64a47f42bfe4bea1e4"
+      },
+      {
+        "Name": "ItsCiod00d",
+        "TeamId": 16,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.e6fb66e048844e5f875d4df48ee4fc1b"
+      },
+      {
+        "Name": "Manyk Rider",
+        "TeamId": 17,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.a176e0582f1e428fa0218f5df672db31"
+      },
+      {
+        "Name": "MR B0JAN6LES",
+        "TeamId": 25,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.31d838fa87cf4f14afac0b4c86ff41e7"
+      },
+      {
+        "Name": "StoredTester52",
+        "TeamId": 8,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.6f96553a96c5458d8d7ef600ca49534d"
+      },
+      {
+        "Name": "EARTHEN",
+        "TeamId": 27,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.83a8327fe2b14ad9922c40441c0b4a86"
+      },
+      {
+        "Name": "xXCHUBSXxx",
+        "TeamId": 6,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.f0992c1e216849e38335d016614f1588"
+      },
+      {
+        "Name": "Its Smitty Bro",
+        "TeamId": 29,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.76e02e97ed6147e6b70485046a526c13"
+      },
+      {
+        "Name": "Jack Klompus 00",
+        "TeamId": 29,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.97ca0bed56524a468e6d5c962f0120ee"
+      },
+      {
+        "Name": "younoseeme0000",
+        "TeamId": 20,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.bf18d1d3fcbf49c98d0bbdf440b430b5"
+      },
+      {
+        "Name": "LoSoWavy",
+        "TeamId": 20,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.d4290693bb2247d69ae71edb08a69a1c"
+      },
+      {
+        "Name": "LengthyBoat958",
+        "TeamId": 4,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.b424b2f8de0b449bb0aec75321cd843b"
+      },
+      {
+        "Name": "BROOKLYNxGOON24",
+        "TeamId": 26,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.5e653cee119f46948176ef62802acf6d"
+      },
+      {
+        "Name": "TheUnit49",
+        "TeamId": 8,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.3965b08e3a3f4aeda03563ceb70d35d0"
+      },
+      {
+        "Name": "pooter biscuit",
+        "TeamId": 11,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.2147d93afd6e46578bac420e5a937ef5"
+      },
+      {
+        "Name": "DKBALLA7",
+        "TeamId": 11,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.af7165aa5e9b4c2780c6076ca9068a90"
+      },
+      {
+        "Name": "showSTOPPA253",
+        "TeamId": 26,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.1ca4f02427fc4d35b6425fbe2c13bf84"
+      },
+      {
+        "Name": "Ralph Nader 9",
+        "TeamId": 5,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.e9067d19780f4f59a762804c53dec61f"
+      },
+      {
+        "Name": "RUFF RACING 75R",
+        "TeamId": 15,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.2dc6cb4ebad44f63b96a702cacd4cb8a"
+      },
+      {
+        "Name": "oDiRTyCHAPo",
+        "TeamId": 13,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.2d1d9d7c29e34e579fa23005ee6fd053"
+      },
+      {
+        "Name": "TragikSaint22",
+        "TeamId": 9,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.dd04acd3f5f04208a6fb713cd6f194a0"
+      },
+      {
+        "Name": "IAmKingD09",
+        "TeamId": 3,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.8963d716378449faaf5d80aadf257f4f"
+      },
+      {
+        "Name": "bucketrose13",
+        "TeamId": 28,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.5e0988f7df3a456eb3177fe8059c37a5"
+      },
+      {
+        "Name": "WooBANGER52",
+        "TeamId": 1,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.a76519018c5f4bed90bcb134626985ff"
+      },
+      {
+        "Name": "J DEMETRIOS",
+        "TeamId": 18,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.ae65dd0ea7ce4b84a0d50ec2e405ce61"
+      },
+      {
+        "Name": "RedNeck Bdog",
+        "TeamId": 9,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.4bd271598b6d425d839bc4c3f9b30023"
+      },
+      {
+        "Name": "xBURNT eggROLLx",
+        "TeamId": 3,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.9253a7cf98954b4c80767fb9f6c9b51a"
+      },
+      {
+        "Name": "BoBsTeR 09",
+        "TeamId": 5,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.77e52b5869cd4d638e7f43031c76bdcd"
+      },
+      {
+        "Name": "Dr Rigles",
+        "TeamId": 25,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.9eef7d52ae0848d583f3bdb45f3d04d3"
+      },
+      {
+        "Name": "oDiRTyGLIZZYo",
+        "TeamId": 13,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.60d092576d5c4a6ebbcd06bbd19ee509"
+      },
+      {
+        "Name": "DaddyDarren32",
+        "TeamId": 28,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.9fbc2944e4a24d1e9a124d3a6f120d00"
+      },
+      {
+        "Name": "LORD GAMER BR11",
+        "TeamId": 18,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.061785c9a554493ba287d8b51388eed6"
+      },
+      {
+        "Name": "Scuba233Steve",
+        "TeamId": 15,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.daf06cc8e4fa488aa4b16fe3dc27e277"
+      },
+      {
+        "Name": "boottycalls38",
+        "TeamId": 10,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.c9fdba5ac59e4d9da1b7499ede443199"
+      },
+      {
+        "Name": "KUSW",
+        "TeamId": 14,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.9d1a7af4deb54fb79a5a91d9a372b279"
+      },
+      {
+        "Name": "Edgar11Ramos",
+        "TeamId": 17,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.3559140fa4bf4f20992119d82032f12a"
+      },
+      {
+        "Name": "predator2341",
+        "TeamId": 23,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.735f7a1c322f4d1c8a536186efc1f24e"
+      },
+      {
+        "Name": "soakraider83",
+        "TeamId": 19,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.b6e30144f4054ff285fba1e3bb62b794"
+      },
+      {
+        "Name": "Its McWhorter",
+        "TeamId": 14,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.e249c059376e4376bbfdf1d46fa98945"
+      },
+      {
+        "Name": "xASx TwiiSTeD",
+        "TeamId": 22,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.60b83894ce0943c399b8de9f43512477"
+      },
+      {
+        "Name": "JDot 103",
+        "TeamId": 22,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.db229d78ebbd4010b00274745d7320ab"
+      },
+      {
+        "Name": "ARMYRANGERELI7E",
+        "TeamId": 23,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.98ef55a04b1d45edb7c5cc332111e352"
+      },
+      {
+        "Name": "MerIin IV",
+        "TeamId": 27,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.893fe6b936b5400db81c9fa24366f6e1"
+      },
+      {
+        "Name": "Robster991",
+        "TeamId": 37,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.a3b9e01285f44a22b22e6f5dc284fad7"
+      },
+      {
+        "Name": "CrazyCuevasGT",
+        "TeamId": 38,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.1b56573509034294a4299b2370d2ef77"
+      },
+      {
+        "Name": "ramzi 24",
+        "TeamId": 36,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.2622020c25b2434a85f556a231ae8215"
+      },
+      {
+        "Name": "the skid kid",
+        "TeamId": 49,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.20e9fb906ae2415ca3d5a4ba9def56dd"
+      },
+      {
+        "Name": "JT1226",
+        "TeamId": 45,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.491c1c610457477c9d2cb7f5f0fb489e"
+      },
+      {
+        "Name": "mendoBAMF15",
+        "TeamId": 42,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.be50b1643fad4521a9e534ec0c1f8639"
+      },
+      {
+        "Name": "The Trashman217",
+        "TeamId": 48,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.c84981511f0a4179a70ef7994abb74dc"
+      },
+      {
+        "Name": "xYato Noragami",
+        "TeamId": 30,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.1e335394c5914fb2bd66b5f1ae96239c"
+      },
+      {
+        "Name": "iSully777",
+        "TeamId": 49,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.f32f095494654cdfb886ca800942685d"
+      },
+      {
+        "Name": "GrumpyBusta",
+        "TeamId": 50,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.bd65975c0a0c41edb32f8fc9407ee5d0"
+      },
+      {
+        "Name": "SolitaryMan070",
+        "TeamId": 31,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.5a1b0c2ecd6341a4a39990693b4d3b30"
+      },
+      {
+        "Name": "TidalMarlin7112",
+        "TeamId": 34,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.93781837814a47a0a9bdaa2c8025417a"
+      },
+      {
+        "Name": "honest abe94",
+        "TeamId": 51,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.a510861353d646ff9003b9288f3f0193"
+      },
+      {
+        "Name": "vR Kirvi",
+        "TeamId": 33,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.4df591ef046e45f6b3080ae35b9f9734"
+      },
+      {
+        "Name": "Alpha2315",
+        "TeamId": 39,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.228ad7f33db44831b303fd98e187c1eb"
+      },
+      {
+        "Name": "vR J O K 3 R",
+        "TeamId": 33,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.ace4b1d898b84e77b31b2ccc638806a7"
+      },
+      {
+        "Name": "MERYLCREEPXXX",
+        "TeamId": 35,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.56f8816ba8ab4b1eb060ef6c151d5ebb"
+      },
+      {
+        "Name": "XxW3SSxE1R3SxX",
+        "TeamId": 38,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.14a688e7f6c143cdb0dba5fa54fad70e"
+      },
+      {
+        "Name": "DrSaint27",
+        "TeamId": 34,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.75e294dec9cb4e1682e4152fd41c9a5e"
+      },
+      {
+        "Name": "Jef 25 BR",
+        "TeamId": 30,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.25bbad400d72406d9464f0c37615498d"
+      },
+      {
+        "Name": "ChuckysComin4U",
+        "TeamId": 43,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.c01c5e0e48ea47dfb8e1edfdcc3ea0b7"
+      },
+      {
+        "Name": "LuniLoco",
+        "TeamId": 47,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.467f4134d26243f5a4d41522ff01878a"
+      },
+      {
+        "Name": "OR3GoNDuDE22",
+        "TeamId": 40,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.1597ad89a2a347cbacbf593614e0cea7"
+      },
+      {
+        "Name": "xMarijuana420v",
+        "TeamId": 39,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.023db214c81948bbacece72d29a34169"
+      },
+      {
+        "Name": "KindFoal7256545",
+        "TeamId": 47,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.b8b51cba7aeb42fb80af4599dec3c5f1"
+      },
+      {
+        "Name": "CHOKI MURDERZ",
+        "TeamId": 44,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.e1e7ef6074f94abe8ba0f346fe43745e"
+      },
+      {
+        "Name": "kittygirl1975",
+        "TeamId": 46,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.6f6672b9292f4e388a0f44e74728c27a"
+      },
+      {
+        "Name": "killaman1111x",
+        "TeamId": 37,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.71ffb5c5f40c457495c1782743b48474"
+      },
+      {
+        "Name": "iBy Abbadon S",
+        "TeamId": 44,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.94a469c5c452439fba37350bf345094d"
+      },
+      {
+        "Name": "BroadHellhound",
+        "TeamId": 21,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.4b87990ece044981b82681f1d1209c09"
+      },
+      {
+        "Name": "rush 323",
+        "TeamId": 42,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.fcb6c076d5214fce9df5de42001c6820"
+      },
+      {
+        "Name": "ChonezWhoBonez",
+        "TeamId": 43,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.2de261be79f944b79e9a51941a29fd6b"
+      },
+      {
+        "Name": "Prof Macklemore",
+        "TeamId": 46,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.f87fb501d2404ca9944c9795c256c350"
+      },
+      {
+        "Name": "mr mitch45",
+        "TeamId": 45,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.74deba12a7ed4a43aa3032d61552da75"
+      },
+      {
+        "Name": "GeNsE DA PrInCe",
+        "TeamId": 48,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.17c51688283349f2accb2f493c9e7fc5"
+      },
+      {
+        "Name": "Il C LoS lI",
+        "TeamId": 40,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.ec8be51c975a4c7a9ad8435c413fd5a3"
+      },
+      {
+        "Name": "xXKickassXx11",
+        "TeamId": 41,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.eadaaa71306c495f88b1903481547e7f"
+      },
+      {
+        "Name": "WYTELILMIKE",
+        "TeamId": 50,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.47592899407744df8a63fa42e7369877"
+      },
+      {
+        "Name": "ON1Y USEME SNIP",
+        "TeamId": 32,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.e33b4bc2a05d4cab9e9ea721c01af2c7"
+      },
+      {
+        "Name": "YungTenner",
+        "TeamId": 31,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.28d0c416ea6c40c6a6e55e885ffd48fb"
+      },
+      {
+        "Name": "infantinoboy",
+        "TeamId": 51,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.0cbc2cc33803437fa2c1d5debf35a263"
+      },
+      {
+        "Name": "s0sasammy",
+        "TeamId": 36,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.1734df8fe70d4cec89cc3ca211a25fbc"
+      },
+      {
+        "Name": "FadedKiller2375",
+        "TeamId": 41,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.810a6a8acc574e9d98fd2e92049292cf"
+      },
+      {
+        "Name": "Dissbleh",
+        "TeamId": 21,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.3883866bcca444a195e6a8e6446c1066"
+      },
+      {
+        "Name": "Zombiehunta994",
+        "TeamId": 32,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.377b453c926f4ae082a4e6fa47b1a736"
+      },
+      {
+        "Name": "x RIFFIE x",
+        "TeamId": 35,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 0,
+        "AccountId": "account.116ccf4da6ca42bdb290685e943c5ad8"
+      }
+    ],
+    "_V": 2,
+    "_D": "2018-05-11T05:40:15.89Z",
+    "_T": "LogMatchStart"
+  },
+  {
+    "AttackId": 922747175,
+    "Attacker": {
+      "Name": "CrazyCuevasGT",
+      "TeamId": 38,
+      "Health": 100.0,
+      "Location": {
+        "X": 177585.7,
+        "Y": 630339.6,
+        "Z": 128.459991
+      },
+      "Ranking": 0,
+      "AccountId": "account.1b56573509034294a4299b2370d2ef77"
+    },
+    "AttackType": "Weapon",
+    "Weapon": {
+      "ItemId": "Item_Weapon_Kar98k_C",
+      "StackCount": 1,
+      "Category": "Weapon",
+      "SubCategory": "Main",
+      "AttachedItems": []
+    },
+    "Vehicle": {
+      "VehicleType": "",
+      "VehicleId": "",
+      "HealthPercent": 0.0,
+      "FeulPercent": 0.0
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:41:38.469Z",
+    "_T": "LogPlayerAttack"
+  },
+  {
+    "Character": {
+      "Name": "blubber10",
+      "TeamId": 7,
+      "Health": 100.0,
+      "Location": {
+        "X": 796751.9,
+        "Y": 21522.418,
+        "Z": 547.2312
+      },
+      "Ranking": 0,
+      "AccountId": "account.0ef337a7a43b4ee4b99a729539431008"
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:39:03.792Z",
+    "_T": "LogPlayerCreate"
+  },
+  {
+    "AttackId": 285212790,
+    "Killer": {
+      "Name": "Its Smitty Bro",
+      "TeamId": 29,
+      "Health": 17.5,
+      "Location": {
+        "X": 177135.453,
+        "Y": 630748.0,
+        "Z": 128.459991
+      },
+      "Ranking": 0,
+      "AccountId": "account.76e02e97ed6147e6b70485046a526c13"
+    },
+    "Victim": {
+      "Name": "CrazyCuevasGT",
+      "TeamId": 38,
+      "Health": 0.0,
+      "Location": {
+        "X": 177009.2,
+        "Y": 630419.438,
+        "Z": 100.59
+      },
+      "Ranking": 0,
+      "AccountId": "account.1b56573509034294a4299b2370d2ef77"
+    },
+    "DamageTypeCategory": "Damage_Gun",
+    "DamageCauserName": "WeapHK416_C",
+    "Distance": 353.085144,
+    "_V": 2,
+    "_D": "2018-05-11T05:41:52.457Z",
+    "_T": "LogPlayerKill"
+  },
+  {
+    "Result": true,
+    "ErrorMessage": "",
+    "AccountId": "",
+    "_V": 2,
+    "_D": "2018-05-11T05:54:44.164Z",
+    "_T": "LogPlayerLogin"
+  },
+  {
+    "AccountId": "account.bd65975c0a0c41edb32f8fc9407ee5d0",
+    "_V": 2,
+    "_D": "2018-05-11T05:54:51.411Z",
+    "_T": "LogPlayerLogout"
+  },
+  {
+    "Character": {
+      "Name": "vR Kirvi",
+      "TeamId": 33,
+      "Health": 10.0,
+      "Location": {
+        "X": 361098.875,
+        "Y": 395581.344,
+        "Z": 4187.19971
+      },
+      "Ranking": 0,
+      "AccountId": "account.4df591ef046e45f6b3080ae35b9f9734"
+    },
+    "ElapsedTime": 861.0,
+    "NumAlivePlayers": 32,
+    "_V": 2,
+    "_D": "2018-05-11T05:54:51.623Z",
+    "_T": "LogPlayerPosition"
+  },
+  {
+    "AttackId": -1,
+    "Attacker": {
+      "Name": "",
+      "TeamId": 0,
+      "Health": 0.0,
+      "Location": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Ranking": 0,
+      "AccountId": ""
+    },
+    "Victim": {
+      "Name": "Jef 25 BR",
+      "TeamId": 30,
+      "Health": 27.7582588,
+      "Location": {
+        "X": 496773.1,
+        "Y": 258064.031,
+        "Z": 858.199951
+      },
+      "Ranking": 0,
+      "AccountId": "account.25bbad400d72406d9464f0c37615498d"
+    },
+    "DamageTypeCategory": "Damage_BlueZone",
+    "DamageReason": "NonSpecific",
+    "Damage": 0.6230027,
+    "DamageCauserName": "BattleRoyaleModeController_Def_C",
+    "_V": 2,
+    "_D": "2018-05-11T05:54:51.789Z",
+    "_T": "LogPlayerTakeDamage"
+  },
+  {
+    "AttackId": 1006632973,
+    "Attacker": {
+      "Name": "The Trashman217",
+      "TeamId": 48,
+      "Health": 0.0,
+      "Location": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Ranking": 0,
+      "AccountId": "account.c84981511f0a4179a70ef7994abb74dc"
+    },
+    "Vehicle": {
+      "VehicleType": "WheeledVehicle",
+      "VehicleId": "Uaz_A_01_C",
+      "HealthPercent": 0.0,
+      "FeulPercent": 69.6535339
+    },
+    "DamageTypeCategory": "Damage_Gun",
+    "DamageCauserName": "WeapKar98k_C",
+    "Distance": 15645.0391,
+    "_V": 2,
+    "_D": "2018-05-11T05:55:04.385Z",
+    "_T": "LogVehicleDestroy"
+  },
+  {
+    "Character": {
+      "Name": "PattyCakeJake",
+      "TeamId": 12,
+      "Health": 79.99993,
+      "Location": {
+        "X": 461724.875,
+        "Y": 611419.8,
+        "Z": 4376.553
+      },
+      "Ranking": 0,
+      "AccountId": "account.7129a226f2e447c7a7290bcff6443980"
+    },
+    "Vehicle": {
+      "VehicleType": "WheeledVehicle",
+      "VehicleId": "Dacia_A_04_v2_C",
+      "HealthPercent": 100.0,
+      "FeulPercent": 65.89208
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:55:21.164Z",
+    "_T": "LogVehicleLeave"
+  },
+  {
+    "Character": {
+      "Name": "StoredTester52",
+      "TeamId": 8,
+      "Health": 100.0,
+      "Location": {
+        "X": 440207.9,
+        "Y": 448241.281,
+        "Z": 2032.4198
+      },
+      "Ranking": 0,
+      "AccountId": "account.6f96553a96c5458d8d7ef600ca49534d"
+    },
+    "Vehicle": {
+      "VehicleType": "WheeledVehicle",
+      "VehicleId": "Dacia_A_02_v2_C",
+      "HealthPercent": 100.0,
+      "FeulPercent": 82.58882
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:55:37.911Z",
+    "_T": "LogVehicleRide"
+  }, {
+    "Character": {
+      "Name": "LongForrest D",
+      "TeamId": 12,
+      "Health": 79.99993,
+      "Location": {
+        "X": 466183.656,
+        "Y": 612868.0,
+        "Z": 3544.5498
+      },
+      "Ranking": 0,
+      "AccountId": "account.8af7893fccc245ad97d66be795939b9e"
+    },
+    "Item": {
+      "ItemId": "Item_Back_F_02_Lv2_C",
+      "StackCount": 1,
+      "Category": "Equipment",
+      "SubCategory": "Backpack",
+      "AttachedItems": [
+
+      ]
+    },
+    "_V": 2,
+    "_D": "2018-05-11T05:55:40.37Z",
+    "_T": "LogItemEquip"
+  }, {
+    "Characters": [{
+        "Name": "blubber10",
+        "TeamId": 7,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 45,
+        "AccountId": "account.0ef337a7a43b4ee4b99a729539431008"
+      },
+      {
+        "Name": "IrateIvan13",
+        "TeamId": 7,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 45,
+        "AccountId": "account.46e0213078b648b293010b20dbe796da"
+      },
+      {
+        "Name": "tangoMASTER89",
+        "TeamId": 1,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 40,
+        "AccountId": "account.00c5f5da905944a5a5fd2c9defddac3b"
+      },
+      {
+        "Name": "I Deer Park I",
+        "TeamId": 6,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 26,
+        "AccountId": "account.46809da3fb0b4892ab8ea3cea736080c"
+      },
+      {
+        "Name": "PattyCakeJake",
+        "TeamId": 12,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 4,
+        "AccountId": "account.7129a226f2e447c7a7290bcff6443980"
+      },
+      {
+        "Name": "MaRsHiN",
+        "TeamId": 16,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 1,
+        "AccountId": "account.a4d425b1059c4611a3dcfb5f72f53f5c"
+      },
+      {
+        "Name": "LongForrest D",
+        "TeamId": 12,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 4,
+        "AccountId": "account.8af7893fccc245ad97d66be795939b9e"
+      },
+      {
+        "Name": "Abandonn",
+        "TeamId": 4,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 48,
+        "AccountId": "account.e99d4e5a174e4b5e8eeb3cad27a0acc0"
+      },
+      {
+        "Name": "YOUNGGSAVAGEE16",
+        "TeamId": 10,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 41,
+        "AccountId": "account.99ebd0ebf6d04c9782465a4225a8a789"
+      },
+      {
+        "Name": "MAGICIANS BLACK",
+        "TeamId": 19,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 47,
+        "AccountId": "account.909f391976404a64a47f42bfe4bea1e4"
+      },
+      {
+        "Name": "ItsCiod00d",
+        "TeamId": 16,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 1,
+        "AccountId": "account.e6fb66e048844e5f875d4df48ee4fc1b"
+      },
+      {
+        "Name": "Manyk Rider",
+        "TeamId": 17,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 21,
+        "AccountId": "account.a176e0582f1e428fa0218f5df672db31"
+      },
+      {
+        "Name": "MR B0JAN6LES",
+        "TeamId": 25,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 16,
+        "AccountId": "account.31d838fa87cf4f14afac0b4c86ff41e7"
+      },
+      {
+        "Name": "StoredTester52",
+        "TeamId": 8,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 7,
+        "AccountId": "account.6f96553a96c5458d8d7ef600ca49534d"
+      },
+      {
+        "Name": "EARTHEN",
+        "TeamId": 27,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 43,
+        "AccountId": "account.83a8327fe2b14ad9922c40441c0b4a86"
+      },
+      {
+        "Name": "xXCHUBSXxx",
+        "TeamId": 6,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 26,
+        "AccountId": "account.f0992c1e216849e38335d016614f1588"
+      },
+      {
+        "Name": "Its Smitty Bro",
+        "TeamId": 29,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 32,
+        "AccountId": "account.76e02e97ed6147e6b70485046a526c13"
+      },
+      {
+        "Name": "Jack Klompus 00",
+        "TeamId": 29,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 32,
+        "AccountId": "account.97ca0bed56524a468e6d5c962f0120ee"
+      },
+      {
+        "Name": "younoseeme0000",
+        "TeamId": 20,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 38,
+        "AccountId": "account.bf18d1d3fcbf49c98d0bbdf440b430b5"
+      },
+      {
+        "Name": "LoSoWavy",
+        "TeamId": 20,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 38,
+        "AccountId": "account.d4290693bb2247d69ae71edb08a69a1c"
+      },
+      {
+        "Name": "LengthyBoat958",
+        "TeamId": 4,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 48,
+        "AccountId": "account.b424b2f8de0b449bb0aec75321cd843b"
+      },
+      {
+        "Name": "BROOKLYNxGOON24",
+        "TeamId": 26,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 34,
+        "AccountId": "account.5e653cee119f46948176ef62802acf6d"
+      },
+      {
+        "Name": "TheUnit49",
+        "TeamId": 8,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 7,
+        "AccountId": "account.3965b08e3a3f4aeda03563ceb70d35d0"
+      },
+      {
+        "Name": "pooter biscuit",
+        "TeamId": 11,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 38,
+        "AccountId": "account.2147d93afd6e46578bac420e5a937ef5"
+      },
+      {
+        "Name": "DKBALLA7",
+        "TeamId": 11,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 38,
+        "AccountId": "account.af7165aa5e9b4c2780c6076ca9068a90"
+      },
+      {
+        "Name": "showSTOPPA253",
+        "TeamId": 26,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 34,
+        "AccountId": "account.1ca4f02427fc4d35b6425fbe2c13bf84"
+      },
+      {
+        "Name": "Ralph Nader 9",
+        "TeamId": 5,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 8,
+        "AccountId": "account.e9067d19780f4f59a762804c53dec61f"
+      },
+      {
+        "Name": "RUFF RACING 75R",
+        "TeamId": 15,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 35,
+        "AccountId": "account.2dc6cb4ebad44f63b96a702cacd4cb8a"
+      },
+      {
+        "Name": "oDiRTyCHAPo",
+        "TeamId": 13,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 6,
+        "AccountId": "account.2d1d9d7c29e34e579fa23005ee6fd053"
+      },
+      {
+        "Name": "TragikSaint22",
+        "TeamId": 9,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 22,
+        "AccountId": "account.dd04acd3f5f04208a6fb713cd6f194a0"
+      },
+      {
+        "Name": "IAmKingD09",
+        "TeamId": 3,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 49,
+        "AccountId": "account.8963d716378449faaf5d80aadf257f4f"
+      },
+      {
+        "Name": "bucketrose13",
+        "TeamId": 28,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 37,
+        "AccountId": "account.5e0988f7df3a456eb3177fe8059c37a5"
+      },
+      {
+        "Name": "WooBANGER52",
+        "TeamId": 1,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 40,
+        "AccountId": "account.a76519018c5f4bed90bcb134626985ff"
+      },
+      {
+        "Name": "J DEMETRIOS",
+        "TeamId": 18,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 42,
+        "AccountId": "account.ae65dd0ea7ce4b84a0d50ec2e405ce61"
+      },
+      {
+        "Name": "RedNeck Bdog",
+        "TeamId": 9,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 22,
+        "AccountId": "account.4bd271598b6d425d839bc4c3f9b30023"
+      },
+      {
+        "Name": "xBURNT eggROLLx",
+        "TeamId": 3,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 49,
+        "AccountId": "account.9253a7cf98954b4c80767fb9f6c9b51a"
+      },
+      {
+        "Name": "BoBsTeR 09",
+        "TeamId": 5,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 8,
+        "AccountId": "account.77e52b5869cd4d638e7f43031c76bdcd"
+      },
+      {
+        "Name": "Dr Rigles",
+        "TeamId": 25,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 16,
+        "AccountId": "account.9eef7d52ae0848d583f3bdb45f3d04d3"
+      },
+      {
+        "Name": "oDiRTyGLIZZYo",
+        "TeamId": 13,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 6,
+        "AccountId": "account.60d092576d5c4a6ebbcd06bbd19ee509"
+      },
+      {
+        "Name": "DaddyDarren32",
+        "TeamId": 28,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 37,
+        "AccountId": "account.9fbc2944e4a24d1e9a124d3a6f120d00"
+      },
+      {
+        "Name": "LORD GAMER BR11",
+        "TeamId": 18,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 42,
+        "AccountId": "account.061785c9a554493ba287d8b51388eed6"
+      },
+      {
+        "Name": "Scuba233Steve",
+        "TeamId": 15,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 35,
+        "AccountId": "account.daf06cc8e4fa488aa4b16fe3dc27e277"
+      },
+      {
+        "Name": "boottycalls38",
+        "TeamId": 10,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 45,
+        "AccountId": "account.c9fdba5ac59e4d9da1b7499ede443199"
+      },
+      {
+        "Name": "KUSW",
+        "TeamId": 14,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 36,
+        "AccountId": "account.9d1a7af4deb54fb79a5a91d9a372b279"
+      },
+      {
+        "Name": "Edgar11Ramos",
+        "TeamId": 17,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 21,
+        "AccountId": "account.3559140fa4bf4f20992119d82032f12a"
+      },
+      {
+        "Name": "predator2341",
+        "TeamId": 23,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 25,
+        "AccountId": "account.735f7a1c322f4d1c8a536186efc1f24e"
+      },
+      {
+        "Name": "soakraider83",
+        "TeamId": 19,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 47,
+        "AccountId": "account.b6e30144f4054ff285fba1e3bb62b794"
+      },
+      {
+        "Name": "Its McWhorter",
+        "TeamId": 14,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 36,
+        "AccountId": "account.e249c059376e4376bbfdf1d46fa98945"
+      },
+      {
+        "Name": "xASx TwiiSTeD",
+        "TeamId": 22,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 39,
+        "AccountId": "account.60b83894ce0943c399b8de9f43512477"
+      },
+      {
+        "Name": "JDot 103",
+        "TeamId": 22,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 39,
+        "AccountId": "account.db229d78ebbd4010b00274745d7320ab"
+      },
+      {
+        "Name": "ARMYRANGERELI7E",
+        "TeamId": 23,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 25,
+        "AccountId": "account.98ef55a04b1d45edb7c5cc332111e352"
+      },
+      {
+        "Name": "MerIin IV",
+        "TeamId": 27,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 43,
+        "AccountId": "account.893fe6b936b5400db81c9fa24366f6e1"
+      },
+      {
+        "Name": "Robster991",
+        "TeamId": 37,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 29,
+        "AccountId": "account.a3b9e01285f44a22b22e6f5dc284fad7"
+      },
+      {
+        "Name": "CrazyCuevasGT",
+        "TeamId": 38,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 31,
+        "AccountId": "account.1b56573509034294a4299b2370d2ef77"
+      },
+      {
+        "Name": "ramzi 24",
+        "TeamId": 36,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 9,
+        "AccountId": "account.2622020c25b2434a85f556a231ae8215"
+      },
+      {
+        "Name": "the skid kid",
+        "TeamId": 49,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 27,
+        "AccountId": "account.20e9fb906ae2415ca3d5a4ba9def56dd"
+      },
+      {
+        "Name": "JT1226",
+        "TeamId": 45,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 14,
+        "AccountId": "account.491c1c610457477c9d2cb7f5f0fb489e"
+      },
+      {
+        "Name": "mendoBAMF15",
+        "TeamId": 42,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 17,
+        "AccountId": "account.be50b1643fad4521a9e534ec0c1f8639"
+      },
+      {
+        "Name": "The Trashman217",
+        "TeamId": 48,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 2,
+        "AccountId": "account.c84981511f0a4179a70ef7994abb74dc"
+      },
+      {
+        "Name": "xYato Noragami",
+        "TeamId": 30,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 11,
+        "AccountId": "account.1e335394c5914fb2bd66b5f1ae96239c"
+      },
+      {
+        "Name": "iSully777",
+        "TeamId": 49,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 27,
+        "AccountId": "account.f32f095494654cdfb886ca800942685d"
+      },
+      {
+        "Name": "GrumpyBusta",
+        "TeamId": 50,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 19,
+        "AccountId": "account.bd65975c0a0c41edb32f8fc9407ee5d0"
+      },
+      {
+        "Name": "SolitaryMan070",
+        "TeamId": 31,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 3,
+        "AccountId": "account.5a1b0c2ecd6341a4a39990693b4d3b30"
+      },
+      {
+        "Name": "TidalMarlin7112",
+        "TeamId": 34,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 12,
+        "AccountId": "account.93781837814a47a0a9bdaa2c8025417a"
+      },
+      {
+        "Name": "honest abe94",
+        "TeamId": 51,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 33,
+        "AccountId": "account.a510861353d646ff9003b9288f3f0193"
+      },
+      {
+        "Name": "vR Kirvi",
+        "TeamId": 33,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 13,
+        "AccountId": "account.4df591ef046e45f6b3080ae35b9f9734"
+      },
+      {
+        "Name": "Alpha2315",
+        "TeamId": 39,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 46,
+        "AccountId": "account.228ad7f33db44831b303fd98e187c1eb"
+      },
+      {
+        "Name": "vR J O K 3 R",
+        "TeamId": 33,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 13,
+        "AccountId": "account.ace4b1d898b84e77b31b2ccc638806a7"
+      },
+      {
+        "Name": "MERYLCREEPXXX",
+        "TeamId": 35,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 24,
+        "AccountId": "account.56f8816ba8ab4b1eb060ef6c151d5ebb"
+      },
+      {
+        "Name": "XxW3SSxE1R3SxX",
+        "TeamId": 38,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 31,
+        "AccountId": "account.14a688e7f6c143cdb0dba5fa54fad70e"
+      },
+      {
+        "Name": "DrSaint27",
+        "TeamId": 34,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 12,
+        "AccountId": "account.75e294dec9cb4e1682e4152fd41c9a5e"
+      },
+      {
+        "Name": "Jef 25 BR",
+        "TeamId": 30,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 11,
+        "AccountId": "account.25bbad400d72406d9464f0c37615498d"
+      },
+      {
+        "Name": "ChuckysComin4U",
+        "TeamId": 43,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 30,
+        "AccountId": "account.c01c5e0e48ea47dfb8e1edfdcc3ea0b7"
+      },
+      {
+        "Name": "LuniLoco",
+        "TeamId": 47,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 41,
+        "AccountId": "account.467f4134d26243f5a4d41522ff01878a"
+      },
+      {
+        "Name": "OR3GoNDuDE22",
+        "TeamId": 40,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 28,
+        "AccountId": "account.1597ad89a2a347cbacbf593614e0cea7"
+      },
+      {
+        "Name": "xMarijuana420v",
+        "TeamId": 39,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 46,
+        "AccountId": "account.023db214c81948bbacece72d29a34169"
+      },
+      {
+        "Name": "KindFoal7256545",
+        "TeamId": 47,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 41,
+        "AccountId": "account.b8b51cba7aeb42fb80af4599dec3c5f1"
+      },
+      {
+        "Name": "CHOKI MURDERZ",
+        "TeamId": 44,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 15,
+        "AccountId": "account.e1e7ef6074f94abe8ba0f346fe43745e"
+      },
+      {
+        "Name": "kittygirl1975",
+        "TeamId": 46,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 39,
+        "AccountId": "account.6f6672b9292f4e388a0f44e74728c27a"
+      },
+      {
+        "Name": "killaman1111x",
+        "TeamId": 37,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 29,
+        "AccountId": "account.71ffb5c5f40c457495c1782743b48474"
+      },
+      {
+        "Name": "iBy Abbadon S",
+        "TeamId": 44,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 15,
+        "AccountId": "account.94a469c5c452439fba37350bf345094d"
+      },
+      {
+        "Name": "BroadHellhound",
+        "TeamId": 21,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 10,
+        "AccountId": "account.4b87990ece044981b82681f1d1209c09"
+      },
+      {
+        "Name": "rush 323",
+        "TeamId": 42,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 17,
+        "AccountId": "account.fcb6c076d5214fce9df5de42001c6820"
+      },
+      {
+        "Name": "ChonezWhoBonez",
+        "TeamId": 43,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 30,
+        "AccountId": "account.2de261be79f944b79e9a51941a29fd6b"
+      },
+      {
+        "Name": "Prof Macklemore",
+        "TeamId": 46,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 40,
+        "AccountId": "account.f87fb501d2404ca9944c9795c256c350"
+      },
+      {
+        "Name": "mr mitch45",
+        "TeamId": 45,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 14,
+        "AccountId": "account.74deba12a7ed4a43aa3032d61552da75"
+      },
+      {
+        "Name": "GeNsE DA PrInCe",
+        "TeamId": 48,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 2,
+        "AccountId": "account.17c51688283349f2accb2f493c9e7fc5"
+      },
+      {
+        "Name": "Il C LoS lI",
+        "TeamId": 40,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 28,
+        "AccountId": "account.ec8be51c975a4c7a9ad8435c413fd5a3"
+      },
+      {
+        "Name": "xXKickassXx11",
+        "TeamId": 41,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 44,
+        "AccountId": "account.eadaaa71306c495f88b1903481547e7f"
+      },
+      {
+        "Name": "WYTELILMIKE",
+        "TeamId": 50,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 19,
+        "AccountId": "account.47592899407744df8a63fa42e7369877"
+      },
+      {
+        "Name": "ON1Y USEME SNIP",
+        "TeamId": 32,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 5,
+        "AccountId": "account.e33b4bc2a05d4cab9e9ea721c01af2c7"
+      },
+      {
+        "Name": "YungTenner",
+        "TeamId": 31,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 3,
+        "AccountId": "account.28d0c416ea6c40c6a6e55e885ffd48fb"
+      },
+      {
+        "Name": "infantinoboy",
+        "TeamId": 51,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 33,
+        "AccountId": "account.0cbc2cc33803437fa2c1d5debf35a263"
+      },
+      {
+        "Name": "s0sasammy",
+        "TeamId": 36,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 9,
+        "AccountId": "account.1734df8fe70d4cec89cc3ca211a25fbc"
+      },
+      {
+        "Name": "FadedKiller2375",
+        "TeamId": 41,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 44,
+        "AccountId": "account.810a6a8acc574e9d98fd2e92049292cf"
+      },
+      {
+        "Name": "Dissbleh",
+        "TeamId": 21,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 10,
+        "AccountId": "account.3883866bcca444a195e6a8e6446c1066"
+      },
+      {
+        "Name": "Zombiehunta994",
+        "TeamId": 32,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 5,
+        "AccountId": "account.377b453c926f4ae082a4e6fa47b1a736"
+      },
+      {
+        "Name": "x RIFFIE x",
+        "TeamId": 35,
+        "Health": 0.0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Ranking": 24,
+        "AccountId": "account.116ccf4da6ca42bdb290685e943c5ad8"
+      }
+    ],
+    "_V": 2,
+    "_D": "2018-05-11T06:11:22.514Z",
+    "_T": "LogMatchEnd"
+  }
+]
