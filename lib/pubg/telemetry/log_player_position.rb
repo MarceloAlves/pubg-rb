@@ -1,17 +1,15 @@
 module PUBG
   class Telemetry
-    class LogPlayerPosition
+    class LogPlayerPosition < LogBase
       require "pubg/telemetry/shared/character"
       
-      attr_reader :character, :elapsedtime, :numaliveplayers, :_V, :_D, :_T
+      attr_reader :character, :elapsed_time, :num_alive_players
 
       def initialize(args)
         @character = Character.new(args["Character"])
-        @elapsedtime = args["ElapsedTime"]
-        @numaliveplayers = args["NumAlivePlayers"]
-        @_V = args["_V"]
-        @_D = args["_D"]
-        @_T = args["_T"]
+        @elapsed_time = args["ElapsedTime"]
+        @num_alive_players = args["NumAlivePlayers"]
+        super(args)
       end
     end
   end

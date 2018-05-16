@@ -3,15 +3,15 @@ module PUBG
     class Character
       require "pubg/telemetry/shared/location"
 
-      attr_reader :name, :teamid, :health, :location, :ranking, :accountid
+      attr_reader :name, :team_id, :health, :location, :ranking, :account_id
 
       def initialize(args)
         @name = args["Name"]
-        @teamid = args["TeamId"]
+        @team_id = args["TeamId"]
         @health = args["Health"]
         @location = Location.new(args["Location"])
         @ranking = args["Ranking"]
-        @accountid = args["AccountId"]
+        @account_id = args["AccountId"]
       end
     end
   end

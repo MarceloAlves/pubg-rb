@@ -1,9 +1,9 @@
 module PUBG
   class Telemetry
-    class LogItemUnequip < LogBase
+    class LogItemUse < LogBase
       require "pubg/telemetry/shared/character"
       require "pubg/telemetry/shared/item"
-      
+
       attr_reader :character, :item
 
       def initialize(args)

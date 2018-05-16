@@ -1,16 +1,13 @@
 module PUBG
   class Telemetry
-    class LogPlayerLogin
-      attr_reader :data, :result, :errormessage, :accountid, :_V, :_D, :_T
+    class LogPlayerLogin < LogBase
+      attr_reader :result, :error_message, :account_id
 
       def initialize(args)
-        @data = args
         @result = args["Result"]
-        @errornessage = args["ErrorMessage"]
-        @accountid = args["AccountId"]
-        @_V = args["_V"]
-        @_D = args["_D"]
-        @_T = args["_T"]
+        @error_message = args["ErrorMessage"]
+        @account_id = args["AccountId"]
+        super(args)
       end
     end
   end

@@ -1,14 +1,14 @@
 module PUBG
   class Telemetry
-    class LogItemUnequip < LogBase
+    class LogVehicleLeave < LogBase
       require "pubg/telemetry/shared/character"
-      require "pubg/telemetry/shared/item"
-      
-      attr_reader :character, :item
+      require "pubg/telemetry/shared/vehicle"
+
+      attr_reader :character, :vehicle
 
       def initialize(args)
         @character = Character.new(args["Character"])
-        @item = Item.new(args["Item"])
+        @vehicle = Vehicle.new(args["Vehicle"])
         super(args)
       end
     end

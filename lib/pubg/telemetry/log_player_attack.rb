@@ -1,22 +1,19 @@
 module PUBG
   class Telemetry
-    class LogPlayerAttack
+    class LogPlayerAttack < LogBase
       require "pubg/telemetry/shared/attacker"
       require "pubg/telemetry/shared/weapon"
       require "pubg/telemetry/shared/vehicle"
 
-      attr_reader :data, :attackid, :attacker, :attacktype, :weapon, :vehicle, :_V, :_D, :_T
+      attr_reader :attack_id, :attacker, :attack_type, :weapon, :vehicle
 
       def initialize(args)
-        @data = args
-        @attackid = args["AttackId"]
+        @attack_id = args["AttackId"]
         @attacker = Attacker.new(args["Attacker"])
-        @attacktype = args["AttackType"]
+        @attack_type = args["AttackType"]
         @weapon = Weapon.new(args["Weapon"])
         @vehicle = Vehicle.new(args["Vehicle"])
-        @_V = args["_V"]
-        @_D = args["_D"]
-        @_T = args["_T"]
+        super(args)
       end
     end
   end

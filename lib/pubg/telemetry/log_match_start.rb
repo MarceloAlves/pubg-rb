@@ -1,12 +1,12 @@
 module PUBG
   class Telemetry
-    class LogPlayerCreate < LogBase
+    class LogMatchStart < LogBase
       require "pubg/telemetry/shared/character"
 
-      attr_reader :character
+      attr_reader :characters
 
       def initialize(args)
-        @character = Character.new(args["Character"])
+        @characters = args["Characters"].map{ |character| Character.new(character) }
         super(args)
       end
     end

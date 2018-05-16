@@ -1,15 +1,15 @@
 module PUBG
   class Telemetry
     class Weapon
-      attr_reader :data, :itemid, :stackcount, :category, :subcategory, :attacheditems
+      attr_reader :data, :item_id, :stack_count, :category, :subcategory, :attached_items
 
       def initialize(args)
         @data = args
-        @itemid = args["ItemId"]
-        @stackcount = args["StackCount"]
+        @item_id = args["ItemId"]
+        @stack_count = args["StackCount"]
         @category = args["Category"]
         @subcategory = args["SubCategory"]
-        @attacheditems = args["AttachedItems"]
+        @attached_items = args["AttachedItems"]
       end
     end
   end
