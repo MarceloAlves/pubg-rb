@@ -99,6 +99,12 @@ RSpec.describe PUBG::Seasons do
       expect(telemetry.item_attach.first).to be_kind_of(PUBG::Telemetry::LogItemAttach)
     end
 
+    it "item_detach" do
+      expect(telemetry.item_detach.size).to eq(1)
+      expect(telemetry.item_detach.first.type).to eq("LogItemDetach")
+      expect(telemetry.item_detach.first).to be_kind_of(PUBG::Telemetry::LogItemDetach)
+    end
+
     it "item_drop" do
       expect(telemetry.item_drop.size).to eq(1)
       expect(telemetry.item_drop.first.type).to eq("LogItemDrop")

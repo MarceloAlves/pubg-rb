@@ -100,6 +100,10 @@ module PUBG
       @args.select { |data| data.type == "LogItemAttach" }
     end
 
+    def item_detach
+      @args.select { |data| data.type == "LogItemDetach" }
+    end
+
     def item_drop
       @args.select { |data| data.type == "LogItemDrop" }
     end
@@ -122,6 +126,14 @@ module PUBG
 
     def match_end
       @args.select { |data| data.type == "LogMatchEnd" }
+    end
+
+    def filter_user_by_name(name)
+      @args.select { |node| node.data.dig("Character", "Name")&.casecmp(name)&.zero? }
+    end
+
+    def filter_user_by_id(id)
+      @args.select { |node| node.data.dig("Character", "AccountId") == id }
     end
 
     private
